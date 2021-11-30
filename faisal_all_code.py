@@ -16,13 +16,13 @@ for i in range(0, len(l1)):
       
     if(l1[i] > l1[j]): 
 
-            #print("tem=l1[i]",l1[i])
+           
             tem = l1[i]; 
-            #print("tem-",tem) 
+            
             l1[i] = l1[j]; 
-            #print("l1[i]-",l1[i])
+            
             l1[j] = tem; 
-            #print("l1[j]----",l1[j])
+            
 
       
                   
